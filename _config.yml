@@ -1,0 +1,7 @@
+title: 程嘉溪音乐作曲教程
+markdown: kramdown
+
+remote_theme: ColinC5887/JekyllTheme
+
+plugins:
+  - jekyll-feed
