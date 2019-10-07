@@ -5,3 +5,4 @@ remote_theme: ColinC5887/JekyllTheme
 
 plugins:
   - jekyll-feed
+  // stone
